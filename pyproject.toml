@@ -12,5 +12,6 @@ dependencies = [
     "pandas>=2.2.3",
     "pybaseball>=2.2.7",
     "scikit-learn>=1.6.1",
+    "torch>=2.6.0",
     "tqdm>=4.67.1",
 ]
